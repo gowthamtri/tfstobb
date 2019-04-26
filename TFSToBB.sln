@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSToBB", "TFSToBB\TFSToBB.csproj", "{BB03D635-FDCA-43AE-906B-8D566C5EE1CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSToBBUI", "TFSToBBUI\TFSToBBUI.csproj", "{02F033C8-FA74-40C5-9BE9-D8E7FEC35C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB03D635-FDCA-43AE-906B-8D566C5EE1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB03D635-FDCA-43AE-906B-8D566C5EE1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB03D635-FDCA-43AE-906B-8D566C5EE1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB03D635-FDCA-43AE-906B-8D566C5EE1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F033C8-FA74-40C5-9BE9-D8E7FEC35C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F033C8-FA74-40C5-9BE9-D8E7FEC35C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F033C8-FA74-40C5-9BE9-D8E7FEC35C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F033C8-FA74-40C5-9BE9-D8E7FEC35C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE22C2E-E8FC-4B0B-9487-1D4A215CA66F}
+	EndGlobalSection
+EndGlobal
